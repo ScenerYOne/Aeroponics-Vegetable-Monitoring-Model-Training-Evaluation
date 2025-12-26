@@ -1,5 +1,3 @@
-# Aeroponics-Vegetable-Monitoring-Model-Training-Evaluation-YOLOv8
-
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLO-Ultralytics-blueviolet)
 
