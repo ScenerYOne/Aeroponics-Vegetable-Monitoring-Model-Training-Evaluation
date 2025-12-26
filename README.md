@@ -4,51 +4,49 @@
 # Aeroponics Vegetable Monitoring  
 ## Dataset Engineering, Model Training & Deployment Pipeline (YOLOv8)
 
-This repository documents my hands-on experience in **Computer Vision, Dataset Engineering, and Deep Learning model training**, focusing on an **Aeroponics vegetable monitoring system**.
+## 🔗 Connected Projects (End-to-End AI Pipeline)
 
+This project is part of a complete AI workflow, covering data preparation, model training, and deployment.
+
+### 1️⃣ Image Preprocessing & Dataset Generation  
+[ScenerYOne/Aeroponics-Vegetable-Monitoring-Image-Preprocessing](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Image-Preprocessing.git)
+
+- Perspective Transformation for camera correction  
+- Image standardization  
+- Dataset preparation for YOLO training  
+- Manual labeling workflow  
+
+---
+
+### 2️⃣ Model Training & Evaluation (This Repository)   
+[ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training-Evaluation](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Training-Evaluation)
+
+- Dataset cleaning & normalization  
+- Multi-dataset integration  
+- YOLOv8 model training and fine-tuning  
+- Automated training reports (mAP, Precision, Recall)  
+- ONNX export  
+
+---
+
+### 3️⃣ Model Deployment Platform (This Repository)  
+[ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Deployment-Platform](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Deployment-Platform)
+
+- Web-based YOLO model testing  
+- FastAPI backend for inference  
+- React frontend for visualization  
+- Real-time detection with bounding boxes and class labels  
+
+---
+
+## 🔁 Full System Workflow
+
+This repository documents my hands-on experience in **Computer Vision, Dataset Engineering, and Deep Learning model training**, focusing on an **Aeroponics vegetable monitoring system**.
 The project demonstrates an **end-to-end AI workflow**, starting from image preprocessing and dataset normalization, through model training and evaluation, and finally connecting to a deployment platform.
 
 This repository serves both as:
 - A **technical record** of my work
 - A **portfolio project** for job applications in AI / ML / Computer Vision roles
-
----
-
-##  Related & Connected Repositories
-
-This project is part of a **3-stage pipeline**, where each repository represents a real-world AI system workflow:
-
-### 1️ Image Preprocessing & Dataset Generation  
-**Aeroponics Vegetable Monitoring – Method 3 (Image Preprocessing)**  
-👉 [ScenerYOne/Aeroponics-Vegetable-Monitoring-Method-3-Image-Preprocessing](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Method-3-Image-Preprocessing)
-
-- Perspective Transformation
-- Image standardization
-- Manual YOLO labeling preparation
-- Dataset generation (pre-training stage)
-
----
-
-### 2️ Model Training & Evaluation (This Repository)  
-**Aeroponics Vegetable Monitoring – Model Training (YOLOv8)**
-
-- Dataset cleaning & normalization
-- Multi-dataset integration
-- YOLOv8 training & fine-tuning
-- Automated reporting
-- Model evaluation
-
----
-
-### 3️ Model Deployment Platform  
-**AI Model Deployment Platform**  
-👉 https://github.com/ScenerYOne/AI-Model-Deployment-Platform.git
-
-- Model inference service
-- Backend & deployment pipeline
-- Practical usage of trained models
-
----
 
 ##  Project Objective
 
