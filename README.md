@@ -30,8 +30,8 @@ This project is part of a complete AI workflow, covering data preparation, model
 
 ---
 
-### 3️⃣ Model Deployment Platform (This Repository)  
-[ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Deployment-Platform](https://github.com/ScenerYOne/Aeroponics-Vegetable-Monitoring-Model-Deployment-Platform)
+### 3️⃣ Model Deployment Platform 
+[ScenerYOne/AI-Model-Deployment-Evaluation-Platform](https://github.com/ScenerYOne/AI-Model-Deployment-Evaluation-Platform)
 
 - Web-based YOLO model testing  
 - FastAPI backend for inference  
@@ -243,7 +243,7 @@ This design reflects real-world **ML experiment tracking practices**.
 
 - Trained models are exported to **ONNX**
 - ONNX models are used in the connected deployment repository:
-  👉 [ScenerYOne/AI-Model-Deployment-Platform](https://github.com/ScenerYOne/AI-Model-Deployment-Platform)
+  👉 [ScenerYOne/AI-Model-Deployment-Evaluation-Platform](https://github.com/ScenerYOne/AI-Model-Deployment-Evaluation-Platform)
 ---
 
 ##  Environment & Tools
